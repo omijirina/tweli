@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://tweli.vercel.app/"
 languageCode = "en"
 title = "Tweli"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34946086663"
 email = "portuga@email.com"
 location = "48920 Portugalete, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://tweli.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
