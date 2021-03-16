@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "HIDRATANTES Y CREMAS"
+  title : "Crema facial sensible"
   content : "Hidratación revitalizante y revitalizante de día y de noche"
   image : "images/banner.png"
   # button
@@ -18,8 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "La crema hidratante Hydreane Legere de la marca francesa de cosmética médica La Roche-Posay está diseñada para reducir la sensibilidad de la piel y eliminar el problema de la deshidratación.La fórmula revolucionaria de la crema presentada contiene exclusivos agentes hidrofijantes que penetran en las capas más profundas de la epidermis y proporcionan un aumento en el nivel de saturación de humedad. Además, los hidrofixers en combinación con agua termal calman y relajan la piel, reducen su sensibilidad.
-La consistencia ultraligera y sin aceite de Hydreane Legere está formulada teniendo en cuenta las características"
+  content : "Una crema facial profundamente hidratante y suavizante de la popular marca Nivea proporciona un cuidado delicado y eficaz para la piel sensible. La fórmula de cuidado del producto está enriquecida con nutrientes que saturan las células con una hidratación vivificante, restaurando así el equilibrio óptimo de la epidermis, previniendo la sequedad, descamación e irritación."
   image : "images/about.png"
 
 
@@ -53,24 +52,15 @@ material:
 advantage:
   enable : true
   title : "Advantages Of Using <br> Our Product"
-  subtitle : "Consistencia de crema ultraligera y sin aceite"
+  subtitle : "La consistencia ligera de la crema se aplica agradablemente sobre la piel, se absorbe lo suficientemente rápido y no tiene una sensación grasosa. El producto contiene extracto de aloe vera, que tiene poderosas propiedades calmantes y antiinflamatorias, promueve la regeneración y renovación celular y tiene un ligero efecto antienvejecimiento."
   image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
 
 
 ######################## Promo Video ##########################
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  content : "Modo de aplicación, aplicar sobre la piel limpia"
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -91,26 +81,20 @@ testimonial:
     - name : "Angela Perara"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Crema bastante buena. Olor agradable y ligero, económico de usar, la piel es agradable al tacto después de su uso. Lo uso por la mañana y por la noche, la piel mixta se ha vuelto más mate."
+      content : "¡Me gustó la crema! El olor delicado, no empalagoso, se absorbe con relativa rapidez. ¡Hidrata bien! Cuando lo aplico por la noche, por la mañana se siente como si la piel estuviera hidratada. Lo uso tanto por la noche como por la mañana. ¡Me sentaba bien! ¡La entrega, como de costumbre, es rápida! ¡Gracias maquillaje!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Riya Ventilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "Una buena crema, la piel es suave, no deja grasa. Todo esta bien."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "john Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "Crema como crema. La textura es media. El nivey tiene una crema espesa y recta, como en un frasco azul, este es un poco más suave. Pero tampoco semi-gel, como es habitual en pieles sensibles. No hay quejas en particular al respecto, vale la pena intentarlo."
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Voy a comprar por segunda vez y compraré más. Muy buena crema, perfecta, el estado de la piel ha mejorado."
-      rating : "four" # rating star, one to five
+  
